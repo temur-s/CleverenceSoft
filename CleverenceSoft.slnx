@@ -1,12 +1,12 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Task1/Task1.csproj" />
+    <Project Path="src/Task2/Task2.csproj" />
+    <Project Path="src/Task3/Task3.csproj" />
+  </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/Task1Tests/Task1Tests.csproj" />
     <Project Path="tests/Task2Tests/Task2Tests.csproj" />
     <Project Path="tests/Task3Tests/Task3Tests.csproj" />
-  </Folder>
-  <Folder Name="/tests/src/">
-    <Project Path="src/Task1/Task1.csproj" />
-    <Project Path="src/Task2/Task2.csproj" />
-    <Project Path="src/Task3/Task3.csproj" />
   </Folder>
 </Solution>
