@@ -20,6 +20,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Task2\Task2.csproj" />
+    <ProjectReference Include="..\Task1Tests\Task1Tests.csproj" />
+    <ProjectReference Include="..\Task3Tests\Task3Tests.csproj" />
   </ItemGroup>
 
 </Project>
